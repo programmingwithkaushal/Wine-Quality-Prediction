@@ -39,7 +39,10 @@ The dataset used is the publicly available <i>Wine Quality Dataset</i> from the 
 6. Evaluating models using metrics like accuracy, precision, recall, and confusion matrix<br>
 </p>
 <br>
-
+<h3>Dataset Link</h3>
+<p>https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
+https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
+</p>
 <p>
 <b>Results:</b><br>
 The Random Forest Classifier gave the best results with an accuracy of around 85% on the test data. The model was able to effectively differentiate between low and high-quality wine samples based on their chemical properties.
